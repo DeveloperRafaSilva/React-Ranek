@@ -6,3 +6,4 @@ Esse comercio foi desenvolvido por mim onde utilizei a ferramente React
 ![PaginaConta](https://github.com/user-attachments/assets/2f663640-3e1e-4c64-a5f4-8d1f9f63822a)
 ![Home Ranek](https://github.com/user-attachments/assets/25b55975-4a67-4f1e-8ad1-c9436a9e34ae)
 ![RanekHomePaginação](https://github.com/user-attachments/assets/244fe70f-5e70-494d-9ff4-8a8843078576)
+![Produto item](https://github.com/user-attachments/assets/6ec981fb-90ac-4c8f-92fc-4ec06af4cd22)
