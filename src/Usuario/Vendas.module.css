@@ -1,0 +1,26 @@
+.imagemVenda img {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.gridVendas {
+  margin-top: 2rem;
+  gap: 1.5rem;
+  color: #234;
+  display: grid;
+  grid-template-columns: 150px auto;
+}
+
+.conteudo {
+ align-self: end;
+}
+
+.Entrega {
+ justify-self: end;
+}
+
+.tituloVendas {
+  margin-left: 2rem;
+}

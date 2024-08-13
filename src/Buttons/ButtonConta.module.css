@@ -1,0 +1,13 @@
+.btnLogin  {
+  max-width: 300px ;
+  margin: 1rem auto ;
+  width: 100% ;
+}
+
+button {
+  cursor: pointer;
+}
+
+.btn {
+  text-align: center;
+}

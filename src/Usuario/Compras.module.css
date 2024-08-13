@@ -1,0 +1,18 @@
+.imagemCompra img {
+  width: 200px;
+  border-radius: 5px;
+  height: 100px;
+  object-fit: cover;
+}
+.produtosComprados {
+  margin-top: 0rem;
+  display: grid;
+  gap: 2rem;
+  color: #234;
+  grid-template-columns: 200px auto;
+  align-items: end;
+}
+
+.tituloCompras { 
+  margin-left: 2rem;
+}

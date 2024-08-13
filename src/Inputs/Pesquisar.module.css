@@ -1,0 +1,33 @@
+.divInput {
+  padding: 20px 30px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divInput input {
+  padding: 15px 25px;
+  max-width: 450px;
+  width: 100%;
+  min-width: 100px;
+  border: none;
+  outline: none;
+  margin: 2em auto;
+  box-shadow: 1px 1px 5px 1px #ccc4;
+}
+
+.divInput input:hover{
+  outline: 1px solid #84e2;
+  box-shadow: 1px 1px 8px 1px #84e5;
+}
+
+.divInput h1 {
+  color: #87f;
+  width: 20ch;
+  text-align: center;
+}
+
+.divInput input:hover{
+  scale: 1.2;
+}

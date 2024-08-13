@@ -1,0 +1,48 @@
+.mainProduto{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 4rem;
+}
+
+@media(max-width:750px) {
+  .mainProduto {
+    grid-template-columns: repeat(2,auto);
+  }
+}
+@media(max-width:450px) {
+  .mainProduto {
+    grid-template-columns: repeat(1,auto);
+  }
+}
+
+.cardProduto {
+  color: #234;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px 1px #ccc6;
+}
+
+.cardProduto p,h2{
+  text-align: initial;
+}
+
+.cardProduto h2 {
+  margin-bottom: 1rem;
+}
+
+.cardProduto img {
+  width: 100%;
+  border-radius: 8px;
+  max-width: 400px;
+}
+
+
+.cardProduto:hover{
+  transition: 1;
+  scale: 1.1;
+}
+
+.preco {
+  font-weight: bold;
+  color: #e80;
+}

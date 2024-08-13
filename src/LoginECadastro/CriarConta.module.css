@@ -1,0 +1,21 @@
+.formCriar  {
+  max-width: 320px !important;
+  width: 100% !important;
+  padding: 20px 0 0 10px;
+}
+
+.divForm button {
+  width: 100%;
+  margin-left: 3rem;
+  max-width: 270px;
+}
+
+.divForm input {
+  max-width: 210px !important;
+  width: 100%;
+}
+
+.divForm p {
+  color: #e80;
+  text-align: center;
+}
